@@ -1,2 +1,2 @@
 # Automatic-School-Bell-System
-![Image](Sơ đồ mạch.png)
+![Image](circuit_diagram.png)
